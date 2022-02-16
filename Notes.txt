@@ -1,0 +1,7 @@
+#<marquee width="60%" direction="left" height="100px"
+	You can add more items using input fields.
+ </marquee>
+This is build in html (almost animation type)
+
+#From this conceptual session i learned->how to add new row to table dynamicly
+->also used class name in each dynamic row dynamicly,used className to access element and works with it
